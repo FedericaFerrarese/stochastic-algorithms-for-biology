@@ -1,4 +1,6 @@
 # stochastic-algorithms-for-biology
+The aim is to present a new approach to the Monte Carlo algorithm comparing its computational cost to the one of the classical and the Gillespie algorithm showing that the order is preserved. 
+
 The file names ending with the word 'fast' implement the new approach to the Monte Carlo algorithm.
 The file names ending with the word 'slow' implement the classical algorithm. 
 The file names ending with the word 'slow' implement the Gillespie algorithm.
